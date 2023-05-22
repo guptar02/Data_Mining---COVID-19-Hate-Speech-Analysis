@@ -10,4 +10,5 @@ The results for the during covid data show that the coherence considering the ha
 <img width="201" alt="image" src="https://github.com/guptar02/Data_Mining---COVID-19-Hate-Speech-Analysis/assets/134241281/87e89af6-bcb0-4781-b0d4-2281df5d98be">
 <img width="360" alt="image" src="https://github.com/guptar02/Data_Mining---COVID-19-Hate-Speech-Analysis/assets/134241281/7004a3d3-65d9-4fc9-a295-fa9fb3d28d61">
 
+
 **Note - This was done in a team of two and my part was to analyze the post covid sentiments. Therefore, the scripts are only available for post-covid analysis.** 
